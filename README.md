@@ -10,25 +10,24 @@ I like to think of myself as a perpetual learner. Sure, my background might surp
 
 Here are some of the technologies I work with:
 
-[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" width="48"/>](#) Java 8+
-[<img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" title="Angular" width="48"/>](#) Angular 14+
-[<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" width="48"/>](#) Docker
-[<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL" width="48"/>](#) PostgreSQL
-[<img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" title="Spring" width="48"/>](#) Spring
-[<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML/CSS" title="HTML/CSS" width="48"/>](#) HTML/CSS
-[<img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" title="Jenkins" width="48"/>](#) Jenkins
-[<img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle DB" title="Oracle DB" width="48"/>](#) Oracle DB
-[<img src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate" title="Hibernate" width="48"/>](#) Hibernate
-[<img src="https://img.icons8.com/color/48/000000/cafe.png" alt="Test Café" title="Test Café" width="48"/>](#) Test Café
-[<img src="https://img.icons8.com/color/48/000000/idea.png" alt="IntelliJ/VSC" title="IntelliJ/VSC" width="48"/>](#) IntelliJ/VSC
-[<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" width="48"/>](#) MySQL
-[<img src="https://img.icons8.com/color/48/000000/maven.png" alt="Maven" title="Maven" width="48"/>](#) Maven
-[<img src="https://img.icons8.com/ios/50/000000/checklist.png" alt="TDD" title="TDD" width="48"/>](#) TDD
-[<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git/SVN" title="Git/SVN" width="48"/>](#) Git/SVN
-[<img src="https://img.icons8.com/color/48/000000/database.png" alt="JPA" title="JPA" width="48"/>](#) JPA
-[<img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" title="Postman" width="48"/>](#) Postman
-[<img src="https://img.icons8.com/dusk/64/000000/mockup.png" alt="Mockito" title="Mockito" width="48"/>](#) Mockito
-[<img src="https://img.icons8.com/color/48/000000/soap.png" alt="SOAP" title="SOAP" width="48"/>](#) SOAP
+[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" width="48"/>](#)
+[<img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" title="Angular" width="48"/>](#)
+[<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" width="48"/>](#)
+[<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL" width="48"/>](#)
+[<img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" title="Spring" width="48"/>](#)
+[<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML/CSS" title="HTML/CSS" width="48"/>](#)
+[<img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" title="Jenkins" width="48"/>](#)
+[<img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle DB" title="Oracle DB" width="48"/>](#)
+[<img src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate" title="Hibernate" width="48"/>](#)
+[<img src="https://img.icons8.com/color/48/000000/cafe.png" alt="Test Café" title="Test Café" width="48"/>](#) 
+[<img src="https://img.icons8.com/color/48/000000/idea.png" alt="IntelliJ/VSC" title="IntelliJ/VSC" width="48"/>](#)
+[<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" width="48"/>](#)
+[<img src="https://img.icons8.com/color/48/000000/maven.png" alt="Maven" title="Maven" width="48"/>](#)
+[<img src="https://img.icons8.com/ios/50/000000/checklist.png" alt="TDD" title="TDD" width="48"/>](#)
+[<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git/SVN" title="Git/SVN" width="48"/>](#)
+[<img src="https://img.icons8.com/color/48/000000/database.png" alt="JPA" title="JPA" width="48"/>](#)
+[<img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" title="Postman" width="48"/>](#)
+[<img src="https://img.icons8.com/dusk/64/000000/mockup.png" alt="Mockito" title="Mockito" width="48"/>](#)
 
 ## 🔭 What I'm Up To
 
