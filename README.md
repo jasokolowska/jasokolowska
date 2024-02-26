@@ -27,7 +27,7 @@ Here are some of the technologies I work with:
 
 ## 🔭 What I'm Up To
 
-Currently, I'm on a mission to supercharge my portfolio. You see, I'm not just a coder—I'm a creator. I'm cooking up some exciting projects that will showcase my skills and creativity. Stay tuned for some GitHub magic!
+Currently, I'm on a mission to supercharge my portfolio. You see, I'm not just a coder—I'm a creator. I'm cooking up some exciting projects that will showcase my skills and creativity.
 
 ## 📫 Connect with Me
 
