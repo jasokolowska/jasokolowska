@@ -20,10 +20,11 @@ Here are some of the technologies I work with:
 [<img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle DB" title="Oracle DB" width="48"/>](#)
 [<img src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate" title="Hibernate" width="48"/>](#)
 [<img src="https://img.icons8.com/color/48/000000/cafe.png" alt="Test Café" title="Test Café" width="48"/>](#) 
-[<img src="https://img.icons8.com/color/48/000000/idea.png" alt="IntelliJ/VSC" title="IntelliJ/VSC" width="48"/>](#)
+[<img src="https://img.icons8.com/color/48/000000/maven.png" alt="Maven" title="Maven" width="48"/>](#)
 [<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" width="48"/>](#)
 [<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git/SVN" title="Git/SVN" width="48"/>](#)
 [<img src="https://img.icons8.com/color/48/000000/database.png" alt="JPA" title="JPA" width="48"/>](#)
+
 
 ## 🔭 What I'm Up To
 
