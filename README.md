@@ -22,12 +22,8 @@ Here are some of the technologies I work with:
 [<img src="https://img.icons8.com/color/48/000000/cafe.png" alt="Test Café" title="Test Café" width="48"/>](#) 
 [<img src="https://img.icons8.com/color/48/000000/idea.png" alt="IntelliJ/VSC" title="IntelliJ/VSC" width="48"/>](#)
 [<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" width="48"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/maven.png" alt="Maven" title="Maven" width="48"/>](#)
-[<img src="https://img.icons8.com/ios/50/000000/checklist.png" alt="TDD" title="TDD" width="48"/>](#)
 [<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git/SVN" title="Git/SVN" width="48"/>](#)
 [<img src="https://img.icons8.com/color/48/000000/database.png" alt="JPA" title="JPA" width="48"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" title="Postman" width="48"/>](#)
-[<img src="https://img.icons8.com/dusk/64/000000/mockup.png" alt="Mockito" title="Mockito" width="48"/>](#)
 
 ## 🔭 What I'm Up To
 
