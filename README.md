@@ -29,8 +29,6 @@ JPA ![JPA](https://img.icons8.com/color/48/000000/database.png)
 JUnit ![JUnit](https://img.icons8.com/ios/50/000000/checklist.png)
 Postman ![Postman](https://img.icons8.com/color/48/000000/postman-api.png)
 Mockito ![Mockito](https://img.icons8.com/dusk/64/000000/mockup.png)
-SOAP ![SOAP](https://img.icons8.com/color/48/000000/soap.png)
-
 
 ## 🔭 What I'm Up To
 
