@@ -1,14 +1,12 @@
 # Hello, World! 👋
 
-Welcome to my GitHub profile! I'm Joanna, a passionate Software Engineer with a knack for Java and Angular. But wait, there's more to me than just code!
+Welcome to my GitHub profile! I'm Joanna, a passionate Software Engineer with expertise in Java, Angular, and more.
 
 ## About Me
 
-I like to think of myself as a perpetual learner. Sure, my background might surprise you— I'm a Chemical Engineer turned Code Ninja. Who says you can't mix chemicals and code, right? 😉 Despite my journey into the tech world, I've never lost my thirst for knowledge.
+I'm a dedicated professional with a background in Chemical Engineering, now thriving in the world of software development. I have a strong passion for learning and staying up-to-date with the latest technologies.
 
 ## Technologies I'm Familiar With
-
-Here are some of the technologies I work with:
 
 [<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" width="48"/>](#)
 [<img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" title="Angular" width="48"/>](#)
@@ -27,14 +25,14 @@ Here are some of the technologies I work with:
 
 ## 🔭 What I'm Up To
 
-Currently, I'm on a mission to supercharge my portfolio. You see, I'm not just a coder—I'm a creator. I'm cooking up some exciting projects that will showcase my skills and creativity.
+Currently, I'm focused on expanding my portfolio with exciting projects that showcase my skills and creativity.
 
 ## 📫 Connect with Me
 
-Got a project idea, a burning question, or just want to chat? Drop me a line! You can find me on [LinkedIn](https://www.linkedin.com/in/jsoko%C5%82owska/). Let's connect and geek out over code together!
+Got a project idea or a question? Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jsoko%C5%82owska/). I'd love to chat!
 
 ## ⚡ Fun Fact
 
-Here's a fun fact about me: When I'm not coding, you'll probably find me buried in a good book or chasing after my little ones. I'm a proud mom of two, and let me tell you, juggling code and kids is my superpower. Some might see my age as a drawback, but I see it as an asset. Experience? Check. Wisdom? Double-check. Plus, who needs sleep when you have coffee, am I right?
+Here's a fun fact about me: When I'm not coding, you'll probably find me buried in a good book or chasing after my little ones. I'm a proud mom of two, and let me tell you, juggling code and kids is my superpower.
 
-Thanks for stopping by! Now, go ahead and explore my repos. Who knows? You might just find your next favorite project! 😄
+Thanks for stopping by! Feel free to explore my repos and reach out if you'd like to collaborate. 😄
