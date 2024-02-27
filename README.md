@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm Joanna, a passionate Software Engineer with expertise in Java, Angular, and more.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasokolowska)](https://github.com/anuraghazra/github-readme-stats)
-
 ## About Me
 
 I'm a dedicated professional with a background in Chemical Engineering, now thriving in the world of software development. I have a strong passion for learning and staying up-to-date with the latest technologies.
