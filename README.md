@@ -2,6 +2,13 @@
 
 Welcome to my GitHub profile! I'm Joanna, a passionate Software Engineer with expertise in Java, Angular, and more.
 
+![GitHub followers](https://img.shields.io/github/followers/jasokolowska?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/jasokolowska)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jasokolowska)
+![GitHub issues](https://img.shields.io/github/issues/jasokolowska)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/jasokolowska)
+
+
 ## About Me
 
 I'm a dedicated professional with a background in Chemical Engineering, now thriving in the world of software development. I have a strong passion for learning and staying up-to-date with the latest technologies.
