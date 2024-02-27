@@ -2,12 +2,7 @@
 
 Welcome to my GitHub profile! I'm Joanna, a passionate Software Engineer with expertise in Java, Angular, and more.
 
-![GitHub followers](https://img.shields.io/github/followers/jasokolowska?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/jasokolowska)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jasokolowska)
-![GitHub issues](https://img.shields.io/github/issues/jasokolowska)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/jasokolowska)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasokolowska)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About Me
 
