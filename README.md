@@ -1,38 +1,37 @@
-# Hello, World! 👋
+# Joanna Sokołowska
 
-Welcome to my GitHub profile! I'm Joanna, a passionate Software Engineer with expertise in Java, Angular, and more.
+**Senior Backend Engineer | Kotlin · Java · Spring Boot | AWS · Event-Driven Systems**
 
-## About Me
+I work on backend services and integrations using Kotlin, Java, and AWS. My engineering interests include reliable cloud-native applications, clear module boundaries, and the trade-offs behind maintainable software architecture.
 
-I'm a dedicated professional with a background in Chemical Engineering, now thriving in the world of software development. I have a strong passion for learning and staying up-to-date with the latest technologies.
+My professional work and the personal projects below are separate. The repositories showcase my own experiments, learning, and architectural decisions—not my employer's source code.
 
-## Technologies I'm Familiar With
+## What I work with
 
-[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" width="48"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" title="Angular" width="48"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" width="48"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL" width="48"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" title="Spring" width="48"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML/CSS" title="HTML/CSS" width="48"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" title="Jenkins" width="48"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle DB" title="Oracle DB" width="48"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate" title="Hibernate" width="48"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/cafe.png" alt="Test Café" title="Test Café" width="48"/>](#) 
-[<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" width="48"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git/SVN" title="Git/SVN" width="48"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/database.png" alt="JPA" title="JPA" width="48"/>](#)
+- **Backend:** Kotlin, Java, Spring Boot, REST APIs, JPA/Hibernate, PostgreSQL
+- **Cloud & messaging:** AWS Lambda, S3, DynamoDB, SQS, Kafka / Amazon MSK
+- **Delivery & observability:** Terraform, Docker, GitHub Actions, Datadog
+- **Engineering practices:** automated testing, integration testing, CI/CD, API design
 
+## Selected projects
 
-## 🔭 What I'm Up To
+### [Smart Budget](https://github.com/jasokolowska/smart-budget) — Kotlin, Spring Boot, modular architecture
+An actively developed personal-budgeting backend and architecture portfolio. The repository includes a Spring Modulith baseline with module-boundary verification, local PostgreSQL and Keycloak setup, architecture decision records (ADRs), and a C4 model.
 
-Currently, I'm focused on expanding my portfolio with exciting projects that showcase my skills and creativity.
+**Status:** Early-stage implementation. The complete budgeting workflow, production authentication integration, and AWS deployment are planned—not yet delivered.
 
-## 📫 Connect with Me
+### [WheelWise](https://github.com/jasokolowska/wheel-wise-app) — Java, Spring Boot, Angular
+A work-in-progress cycling-events application with backend API components and a frontend. It explores application layering, persistence, and an end-to-end product workflow.
 
-Got a project idea or a question? Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jsoko%C5%82owska/). I'd love to chat!
+### [Travel Planner](https://github.com/jasokolowska/travel-planner-app) — Java, Spring Boot, external APIs
+A project exploring integration with location and flight-search services, including API clients and persistence.
 
-## ⚡ Fun Fact
+## Current focus
 
-Here's a fun fact about me: When I'm not coding, you'll probably find me buried in a good book or chasing after my little ones. I'm a proud mom of two, and let me tell you, juggling code and kids is my superpower.
+- Deepening AWS solution-design skills and understanding cloud architecture trade-offs
+- Building end-to-end, tested features in [Smart Budget](https://github.com/jasokolowska/smart-budget)
+- Strengthening system design, security, and practical use of AI coding agents
 
-Thanks for stopping by! Feel free to explore my repos and reach out if you'd like to collaborate. 😄
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/jsoko%C5%82owska/) · [GitHub repositories](https://github.com/jasokolowska?tab=repositories)
